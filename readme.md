@@ -165,4 +165,4 @@ This project is licensed under the MIT License.
 
 - Harshit - [leoncyriac.me](https://leoncyriac.me)
 
-*Note: This project was made for (Quizzzy)[https://quizzzy.tech].*
+*Note: This project was made for [Quizzzy](https://quizzzy.tech).*
